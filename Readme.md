@@ -46,9 +46,3 @@ python main.py
 ---
 
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/karan0805/Hire-Me) 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/karan0805/Hire-Me)
-
-### If you encounter any difficulty running it, feel free to contact on my email :smile:
-
-### If you liked our work do give us a star :star::star::star: It Encourages us to do more :wink: :dizzy:
